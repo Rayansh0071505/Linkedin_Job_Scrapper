@@ -19,5 +19,6 @@ The tool is specifically tailored for searching job positions related to Machine
 The tool extracts all the job links from the provided LinkedIn URL. The output is displayed in a structured format.
 
 ### Example Output
-<img width="891" alt="image" src="https://github.com/Rayansh0071505/linkedin-job-scraper/assets/98272246/315de4db-5178-4c4a-9bbf-9afc6a8d5935">
+<img width="1260" alt="image" src="https://github.com/Rayansh0071505/linkedin-job-scrapper/assets/98272246/f3ea5952-974a-4401-a6f2-d7f44814bd24">
+
 
